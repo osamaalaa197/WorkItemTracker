@@ -1,0 +1,11 @@
+C:\Users\New\Downloads\WorkItemTracker\WorkItemTracker\src\WorkItemTracker.Domain\bin\Debug\net8.0\WorkItemTracker.Domain.deps.json
+C:\Users\New\Downloads\WorkItemTracker\WorkItemTracker\src\WorkItemTracker.Domain\bin\Debug\net8.0\WorkItemTracker.Domain.dll
+C:\Users\New\Downloads\WorkItemTracker\WorkItemTracker\src\WorkItemTracker.Domain\bin\Debug\net8.0\WorkItemTracker.Domain.pdb
+C:\Users\New\Downloads\WorkItemTracker\WorkItemTracker\src\WorkItemTracker.Domain\obj\Debug\net8.0\WorkItemTracker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New\Downloads\WorkItemTracker\WorkItemTracker\src\WorkItemTracker.Domain\obj\Debug\net8.0\WorkItemTracker.Domain.AssemblyInfoInputs.cache
+C:\Users\New\Downloads\WorkItemTracker\WorkItemTracker\src\WorkItemTracker.Domain\obj\Debug\net8.0\WorkItemTracker.Domain.AssemblyInfo.cs
+C:\Users\New\Downloads\WorkItemTracker\WorkItemTracker\src\WorkItemTracker.Domain\obj\Debug\net8.0\WorkItemTracker.Domain.csproj.CoreCompileInputs.cache
+C:\Users\New\Downloads\WorkItemTracker\WorkItemTracker\src\WorkItemTracker.Domain\obj\Debug\net8.0\WorkItemTracker.Domain.dll
+C:\Users\New\Downloads\WorkItemTracker\WorkItemTracker\src\WorkItemTracker.Domain\obj\Debug\net8.0\refint\WorkItemTracker.Domain.dll
+C:\Users\New\Downloads\WorkItemTracker\WorkItemTracker\src\WorkItemTracker.Domain\obj\Debug\net8.0\WorkItemTracker.Domain.pdb
+C:\Users\New\Downloads\WorkItemTracker\WorkItemTracker\src\WorkItemTracker.Domain\obj\Debug\net8.0\ref\WorkItemTracker.Domain.dll

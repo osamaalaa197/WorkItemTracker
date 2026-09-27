@@ -1,0 +1,327 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\New\\Downloads\\WorkItemTracker\\WorkItemTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-0000-0000-0000-000000000006}|tests\\WorkItemTracker.IntegrationTests\\WorkItemTracker.IntegrationTests.csproj|c:\\users\\new\\downloads\\workitemtracker\\workitemtracker\\tests\\workitemtracker.integrationtests\\workitemsapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-0000-0000-0000-000000000006}|tests\\WorkItemTracker.IntegrationTests\\WorkItemTracker.IntegrationTests.csproj|solutionrelative:tests\\workitemtracker.integrationtests\\workitemsapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-0000-0000-0000-000000000005}|tests\\WorkItemTracker.UnitTests\\WorkItemTracker.UnitTests.csproj|c:\\users\\new\\downloads\\workitemtracker\\workitemtracker\\tests\\workitemtracker.unittests\\fakeworkitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-0000-0000-0000-000000000005}|tests\\WorkItemTracker.UnitTests\\WorkItemTracker.UnitTests.csproj|solutionrelative:tests\\workitemtracker.unittests\\fakeworkitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-0000-0000-0000-000000000005}|tests\\WorkItemTracker.UnitTests\\WorkItemTracker.UnitTests.csproj|c:\\users\\new\\downloads\\workitemtracker\\workitemtracker\\tests\\workitemtracker.unittests\\workitemservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-0000-0000-0000-000000000005}|tests\\WorkItemTracker.UnitTests\\WorkItemTracker.UnitTests.csproj|solutionrelative:tests\\workitemtracker.unittests\\workitemservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-0000-0000-0000-000000000005}|tests\\WorkItemTracker.UnitTests\\WorkItemTracker.UnitTests.csproj|c:\\users\\new\\downloads\\workitemtracker\\workitemtracker\\tests\\workitemtracker.unittests\\workitemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-0000-0000-0000-000000000005}|tests\\WorkItemTracker.UnitTests\\WorkItemTracker.UnitTests.csproj|solutionrelative:tests\\workitemtracker.unittests\\workitemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-0000-0000-0000-000000000002}|src\\WorkItemTracker.Application\\WorkItemTracker.Application.csproj|c:\\users\\new\\downloads\\workitemtracker\\workitemtracker\\src\\workitemtracker.application\\services\\workitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-0000-0000-0000-000000000002}|src\\WorkItemTracker.Application\\WorkItemTracker.Application.csproj|solutionrelative:src\\workitemtracker.application\\services\\workitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-0000-0000-0000-000000000002}|src\\WorkItemTracker.Application\\WorkItemTracker.Application.csproj|c:\\users\\new\\downloads\\workitemtracker\\workitemtracker\\src\\workitemtracker.application\\interfaces\\iworkitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-0000-0000-0000-000000000002}|src\\WorkItemTracker.Application\\WorkItemTracker.Application.csproj|solutionrelative:src\\workitemtracker.application\\interfaces\\iworkitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-0000-0000-0000-000000000002}|src\\WorkItemTracker.Application\\WorkItemTracker.Application.csproj|c:\\users\\new\\downloads\\workitemtracker\\workitemtracker\\src\\workitemtracker.application\\interfaces\\iworkitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-0000-0000-0000-000000000002}|src\\WorkItemTracker.Application\\WorkItemTracker.Application.csproj|solutionrelative:src\\workitemtracker.application\\interfaces\\iworkitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-0000-0000-0000-000000000003}|src\\WorkItemTracker.Infrastructure\\WorkItemTracker.Infrastructure.csproj|c:\\users\\new\\downloads\\workitemtracker\\workitemtracker\\src\\workitemtracker.infrastructure\\repositories\\workitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-0000-0000-0000-000000000003}|src\\WorkItemTracker.Infrastructure\\WorkItemTracker.Infrastructure.csproj|solutionrelative:src\\workitemtracker.infrastructure\\repositories\\workitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-0000-0000-0000-000000000004}|src\\WorkItemTracker.Api\\WorkItemTracker.Api.csproj|c:\\users\\new\\downloads\\workitemtracker\\workitemtracker\\src\\workitemtracker.api\\controllers\\workitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-0000-0000-0000-000000000004}|src\\WorkItemTracker.Api\\WorkItemTracker.Api.csproj|solutionrelative:src\\workitemtracker.api\\controllers\\workitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-0000-0000-0000-000000000002}|src\\WorkItemTracker.Application\\WorkItemTracker.Application.csproj|c:\\users\\new\\downloads\\workitemtracker\\workitemtracker\\src\\workitemtracker.application\\dtos\\workitemdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-0000-0000-0000-000000000002}|src\\WorkItemTracker.Application\\WorkItemTracker.Application.csproj|solutionrelative:src\\workitemtracker.application\\dtos\\workitemdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-0000-0000-0000-000000000001}|src\\WorkItemTracker.Domain\\WorkItemTracker.Domain.csproj|c:\\users\\new\\downloads\\workitemtracker\\workitemtracker\\src\\workitemtracker.domain\\enums\\workitemstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-0000-0000-0000-000000000001}|src\\WorkItemTracker.Domain\\WorkItemTracker.Domain.csproj|solutionrelative:src\\workitemtracker.domain\\enums\\workitemstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-0000-0000-0000-000000000004}|src\\WorkItemTracker.Api\\WorkItemTracker.Api.csproj|c:\\users\\new\\downloads\\workitemtracker\\workitemtracker\\src\\workitemtracker.api\\workitemtracker.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{11111111-0000-0000-0000-000000000004}|src\\WorkItemTracker.Api\\WorkItemTracker.Api.csproj|solutionrelative:src\\workitemtracker.api\\workitemtracker.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-0000-0000-0000-000000000003}|src\\WorkItemTracker.Infrastructure\\WorkItemTracker.Infrastructure.csproj|c:\\users\\new\\downloads\\workitemtracker\\workitemtracker\\src\\workitemtracker.infrastructure\\workitemtracker.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{11111111-0000-0000-0000-000000000003}|src\\WorkItemTracker.Infrastructure\\WorkItemTracker.Infrastructure.csproj|solutionrelative:src\\workitemtracker.infrastructure\\workitemtracker.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-0000-0000-0000-000000000006}|tests\\WorkItemTracker.IntegrationTests\\WorkItemTracker.IntegrationTests.csproj|c:\\users\\new\\downloads\\workitemtracker\\workitemtracker\\tests\\workitemtracker.integrationtests\\workitemapifactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-0000-0000-0000-000000000006}|tests\\WorkItemTracker.IntegrationTests\\WorkItemTracker.IntegrationTests.csproj|solutionrelative:tests\\workitemtracker.integrationtests\\workitemapifactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-0000-0000-0000-000000000004}|src\\WorkItemTracker.Api\\WorkItemTracker.Api.csproj|c:\\users\\new\\downloads\\workitemtracker\\workitemtracker\\src\\workitemtracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-0000-0000-0000-000000000004}|src\\WorkItemTracker.Api\\WorkItemTracker.Api.csproj|solutionrelative:src\\workitemtracker.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-0000-0000-0000-000000000003}|src\\WorkItemTracker.Infrastructure\\WorkItemTracker.Infrastructure.csproj|c:\\users\\new\\downloads\\workitemtracker\\workitemtracker\\src\\workitemtracker.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-0000-0000-0000-000000000003}|src\\WorkItemTracker.Infrastructure\\WorkItemTracker.Infrastructure.csproj|solutionrelative:src\\workitemtracker.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-0000-0000-0000-000000000004}|src\\WorkItemTracker.Api\\WorkItemTracker.Api.csproj|c:\\users\\new\\downloads\\workitemtracker\\workitemtracker\\src\\workitemtracker.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11111111-0000-0000-0000-000000000004}|src\\WorkItemTracker.Api\\WorkItemTracker.Api.csproj|solutionrelative:src\\workitemtracker.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-0000-0000-0000-000000000002}|src\\WorkItemTracker.Application\\WorkItemTracker.Application.csproj|c:\\users\\new\\downloads\\workitemtracker\\workitemtracker\\src\\workitemtracker.application\\workitemtracker.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{11111111-0000-0000-0000-000000000002}|src\\WorkItemTracker.Application\\WorkItemTracker.Application.csproj|solutionrelative:src\\workitemtracker.application\\workitemtracker.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FakeWorkItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\New\\Downloads\\WorkItemTracker\\WorkItemTracker\\tests\\WorkItemTracker.UnitTests\\FakeWorkItemRepository.cs",
+              "RelativeDocumentMoniker": "tests\\WorkItemTracker.UnitTests\\FakeWorkItemRepository.cs",
+              "ToolTip": "C:\\Users\\New\\Downloads\\WorkItemTracker\\WorkItemTracker\\tests\\WorkItemTracker.UnitTests\\FakeWorkItemRepository.cs",
+              "RelativeToolTip": "tests\\WorkItemTracker.UnitTests\\FakeWorkItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T08:33:25.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkItemServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\New\\Downloads\\WorkItemTracker\\WorkItemTracker\\tests\\WorkItemTracker.UnitTests\\WorkItemServiceTests.cs",
+              "RelativeDocumentMoniker": "tests\\WorkItemTracker.UnitTests\\WorkItemServiceTests.cs",
+              "ToolTip": "C:\\Users\\New\\Downloads\\WorkItemTracker\\WorkItemTracker\\tests\\WorkItemTracker.UnitTests\\WorkItemServiceTests.cs",
+              "RelativeToolTip": "tests\\WorkItemTracker.UnitTests\\WorkItemServiceTests.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T08:33:08.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WorkItemTests.cs",
+              "DocumentMoniker": "C:\\Users\\New\\Downloads\\WorkItemTracker\\WorkItemTracker\\tests\\WorkItemTracker.UnitTests\\WorkItemTests.cs",
+              "RelativeDocumentMoniker": "tests\\WorkItemTracker.UnitTests\\WorkItemTests.cs",
+              "ToolTip": "C:\\Users\\New\\Downloads\\WorkItemTracker\\WorkItemTracker\\tests\\WorkItemTracker.UnitTests\\WorkItemTests.cs",
+              "RelativeToolTip": "tests\\WorkItemTracker.UnitTests\\WorkItemTests.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T08:32:44.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WorkItemDtos.cs",
+              "DocumentMoniker": "C:\\Users\\New\\Downloads\\WorkItemTracker\\WorkItemTracker\\src\\WorkItemTracker.Application\\DTOs\\WorkItemDtos.cs",
+              "RelativeDocumentMoniker": "src\\WorkItemTracker.Application\\DTOs\\WorkItemDtos.cs",
+              "ToolTip": "C:\\Users\\New\\Downloads\\WorkItemTracker\\WorkItemTracker\\src\\WorkItemTracker.Application\\DTOs\\WorkItemDtos.cs",
+              "RelativeToolTip": "src\\WorkItemTracker.Application\\DTOs\\WorkItemDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T08:19:37.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WorkItemService.cs",
+              "DocumentMoniker": "C:\\Users\\New\\Downloads\\WorkItemTracker\\WorkItemTracker\\src\\WorkItemTracker.Application\\Services\\WorkItemService.cs",
+              "RelativeDocumentMoniker": "src\\WorkItemTracker.Application\\Services\\WorkItemService.cs",
+              "ToolTip": "C:\\Users\\New\\Downloads\\WorkItemTracker\\WorkItemTracker\\src\\WorkItemTracker.Application\\Services\\WorkItemService.cs",
+              "RelativeToolTip": "src\\WorkItemTracker.Application\\Services\\WorkItemService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA9wDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T08:18:29.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WorkItemTracker.Api",
+              "DocumentMoniker": "C:\\Users\\New\\Downloads\\WorkItemTracker\\WorkItemTracker\\src\\WorkItemTracker.Api\\WorkItemTracker.Api.csproj",
+              "RelativeDocumentMoniker": "src\\WorkItemTracker.Api\\WorkItemTracker.Api.csproj",
+              "ToolTip": "C:\\Users\\New\\Downloads\\WorkItemTracker\\WorkItemTracker\\src\\WorkItemTracker.Api\\WorkItemTracker.Api.csproj",
+              "RelativeToolTip": "src\\WorkItemTracker.Api\\WorkItemTracker.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-27T08:03:55.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\New\\Downloads\\WorkItemTracker\\WorkItemTracker\\src\\WorkItemTracker.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "src\\WorkItemTracker.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\New\\Downloads\\WorkItemTracker\\WorkItemTracker\\src\\WorkItemTracker.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "src\\WorkItemTracker.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T07:50:26.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WorkItemTracker.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\New\\Downloads\\WorkItemTracker\\WorkItemTracker\\src\\WorkItemTracker.Application\\WorkItemTracker.Application.csproj",
+              "RelativeDocumentMoniker": "src\\WorkItemTracker.Application\\WorkItemTracker.Application.csproj",
+              "ToolTip": "C:\\Users\\New\\Downloads\\WorkItemTracker\\WorkItemTracker\\src\\WorkItemTracker.Application\\WorkItemTracker.Application.csproj",
+              "RelativeToolTip": "src\\WorkItemTracker.Application\\WorkItemTracker.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-27T07:38:53.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WorkItemTracker.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\New\\Downloads\\WorkItemTracker\\WorkItemTracker\\src\\WorkItemTracker.Infrastructure\\WorkItemTracker.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\WorkItemTracker.Infrastructure\\WorkItemTracker.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\New\\Downloads\\WorkItemTracker\\WorkItemTracker\\src\\WorkItemTracker.Infrastructure\\WorkItemTracker.Infrastructure.csproj",
+              "RelativeToolTip": "src\\WorkItemTracker.Infrastructure\\WorkItemTracker.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-27T07:38:46.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorkItemsApiTests.cs",
+              "DocumentMoniker": "C:\\Users\\New\\Downloads\\WorkItemTracker\\WorkItemTracker\\tests\\WorkItemTracker.IntegrationTests\\WorkItemsApiTests.cs",
+              "RelativeDocumentMoniker": "tests\\WorkItemTracker.IntegrationTests\\WorkItemsApiTests.cs",
+              "ToolTip": "C:\\Users\\New\\Downloads\\WorkItemTracker\\WorkItemTracker\\tests\\WorkItemTracker.IntegrationTests\\WorkItemsApiTests.cs",
+              "RelativeToolTip": "tests\\WorkItemTracker.IntegrationTests\\WorkItemsApiTests.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T07:33:26.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WorkItemApiFactory.cs",
+              "DocumentMoniker": "C:\\Users\\New\\Downloads\\WorkItemTracker\\WorkItemTracker\\tests\\WorkItemTracker.IntegrationTests\\WorkItemApiFactory.cs",
+              "RelativeDocumentMoniker": "tests\\WorkItemTracker.IntegrationTests\\WorkItemApiFactory.cs",
+              "ToolTip": "C:\\Users\\New\\Downloads\\WorkItemTracker\\WorkItemTracker\\tests\\WorkItemTracker.IntegrationTests\\WorkItemApiFactory.cs",
+              "RelativeToolTip": "tests\\WorkItemTracker.IntegrationTests\\WorkItemApiFactory.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T07:33:24.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\New\\Downloads\\WorkItemTracker\\WorkItemTracker\\src\\WorkItemTracker.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\WorkItemTracker.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\New\\Downloads\\WorkItemTracker\\WorkItemTracker\\src\\WorkItemTracker.Api\\appsettings.json",
+              "RelativeToolTip": "src\\WorkItemTracker.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-27T07:06:22.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\New\\Downloads\\WorkItemTracker\\WorkItemTracker\\src\\WorkItemTracker.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\WorkItemTracker.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\New\\Downloads\\WorkItemTracker\\WorkItemTracker\\src\\WorkItemTracker.Api\\Program.cs",
+              "RelativeToolTip": "src\\WorkItemTracker.Api\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T07:06:01.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WorkItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\New\\Downloads\\WorkItemTracker\\WorkItemTracker\\src\\WorkItemTracker.Api\\Controllers\\WorkItemsController.cs",
+              "RelativeDocumentMoniker": "src\\WorkItemTracker.Api\\Controllers\\WorkItemsController.cs",
+              "ToolTip": "C:\\Users\\New\\Downloads\\WorkItemTracker\\WorkItemTracker\\src\\WorkItemTracker.Api\\Controllers\\WorkItemsController.cs",
+              "RelativeToolTip": "src\\WorkItemTracker.Api\\Controllers\\WorkItemsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T07:05:42.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IWorkItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\New\\Downloads\\WorkItemTracker\\WorkItemTracker\\src\\WorkItemTracker.Application\\Interfaces\\IWorkItemRepository.cs",
+              "RelativeDocumentMoniker": "src\\WorkItemTracker.Application\\Interfaces\\IWorkItemRepository.cs",
+              "ToolTip": "C:\\Users\\New\\Downloads\\WorkItemTracker\\WorkItemTracker\\src\\WorkItemTracker.Application\\Interfaces\\IWorkItemRepository.cs",
+              "RelativeToolTip": "src\\WorkItemTracker.Application\\Interfaces\\IWorkItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T07:04:42.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IWorkItemService.cs",
+              "DocumentMoniker": "C:\\Users\\New\\Downloads\\WorkItemTracker\\WorkItemTracker\\src\\WorkItemTracker.Application\\Interfaces\\IWorkItemService.cs",
+              "RelativeDocumentMoniker": "src\\WorkItemTracker.Application\\Interfaces\\IWorkItemService.cs",
+              "ToolTip": "C:\\Users\\New\\Downloads\\WorkItemTracker\\WorkItemTracker\\src\\WorkItemTracker.Application\\Interfaces\\IWorkItemService.cs",
+              "RelativeToolTip": "src\\WorkItemTracker.Application\\Interfaces\\IWorkItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T07:04:53.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WorkItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\New\\Downloads\\WorkItemTracker\\WorkItemTracker\\src\\WorkItemTracker.Infrastructure\\Repositories\\WorkItemRepository.cs",
+              "RelativeDocumentMoniker": "src\\WorkItemTracker.Infrastructure\\Repositories\\WorkItemRepository.cs",
+              "ToolTip": "C:\\Users\\New\\Downloads\\WorkItemTracker\\WorkItemTracker\\src\\WorkItemTracker.Infrastructure\\Repositories\\WorkItemRepository.cs",
+              "RelativeToolTip": "src\\WorkItemTracker.Infrastructure\\Repositories\\WorkItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T07:04:00.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WorkItemStatus.cs",
+              "DocumentMoniker": "C:\\Users\\New\\Downloads\\WorkItemTracker\\WorkItemTracker\\src\\WorkItemTracker.Domain\\Enums\\WorkItemStatus.cs",
+              "RelativeDocumentMoniker": "src\\WorkItemTracker.Domain\\Enums\\WorkItemStatus.cs",
+              "ToolTip": "C:\\Users\\New\\Downloads\\WorkItemTracker\\WorkItemTracker\\src\\WorkItemTracker.Domain\\Enums\\WorkItemStatus.cs",
+              "RelativeToolTip": "src\\WorkItemTracker.Domain\\Enums\\WorkItemStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T07:00:08.895Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

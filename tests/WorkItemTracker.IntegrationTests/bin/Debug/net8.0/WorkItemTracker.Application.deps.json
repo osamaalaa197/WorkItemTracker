@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WorkItemTracker.Application/1.0.0": {
+        "dependencies": {
+          "WorkItemTracker.Domain": "1.0.0"
+        },
+        "runtime": {
+          "WorkItemTracker.Application.dll": {}
+        }
+      },
+      "WorkItemTracker.Domain/1.0.0": {
+        "runtime": {
+          "WorkItemTracker.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WorkItemTracker.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WorkItemTracker.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

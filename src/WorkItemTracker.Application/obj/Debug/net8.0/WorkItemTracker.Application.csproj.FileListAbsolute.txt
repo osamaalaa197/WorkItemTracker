@@ -1,0 +1,15 @@
+C:\Users\New\Downloads\WorkItemTracker\WorkItemTracker\src\WorkItemTracker.Application\bin\Debug\net8.0\WorkItemTracker.Application.deps.json
+C:\Users\New\Downloads\WorkItemTracker\WorkItemTracker\src\WorkItemTracker.Application\bin\Debug\net8.0\WorkItemTracker.Application.dll
+C:\Users\New\Downloads\WorkItemTracker\WorkItemTracker\src\WorkItemTracker.Application\bin\Debug\net8.0\WorkItemTracker.Application.pdb
+C:\Users\New\Downloads\WorkItemTracker\WorkItemTracker\src\WorkItemTracker.Application\bin\Debug\net8.0\WorkItemTracker.Domain.dll
+C:\Users\New\Downloads\WorkItemTracker\WorkItemTracker\src\WorkItemTracker.Application\bin\Debug\net8.0\WorkItemTracker.Domain.pdb
+C:\Users\New\Downloads\WorkItemTracker\WorkItemTracker\src\WorkItemTracker.Application\obj\Debug\net8.0\WorkItemTracker.Application.csproj.AssemblyReference.cache
+C:\Users\New\Downloads\WorkItemTracker\WorkItemTracker\src\WorkItemTracker.Application\obj\Debug\net8.0\WorkItemTracker.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New\Downloads\WorkItemTracker\WorkItemTracker\src\WorkItemTracker.Application\obj\Debug\net8.0\WorkItemTracker.Application.AssemblyInfoInputs.cache
+C:\Users\New\Downloads\WorkItemTracker\WorkItemTracker\src\WorkItemTracker.Application\obj\Debug\net8.0\WorkItemTracker.Application.AssemblyInfo.cs
+C:\Users\New\Downloads\WorkItemTracker\WorkItemTracker\src\WorkItemTracker.Application\obj\Debug\net8.0\WorkItemTracker.Application.csproj.CoreCompileInputs.cache
+C:\Users\New\Downloads\WorkItemTracker\WorkItemTracker\src\WorkItemTracker.Application\obj\Debug\net8.0\WorkItem.6CC2C29C.Up2Date
+C:\Users\New\Downloads\WorkItemTracker\WorkItemTracker\src\WorkItemTracker.Application\obj\Debug\net8.0\WorkItemTracker.Application.dll
+C:\Users\New\Downloads\WorkItemTracker\WorkItemTracker\src\WorkItemTracker.Application\obj\Debug\net8.0\refint\WorkItemTracker.Application.dll
+C:\Users\New\Downloads\WorkItemTracker\WorkItemTracker\src\WorkItemTracker.Application\obj\Debug\net8.0\WorkItemTracker.Application.pdb
+C:\Users\New\Downloads\WorkItemTracker\WorkItemTracker\src\WorkItemTracker.Application\obj\Debug\net8.0\ref\WorkItemTracker.Application.dll

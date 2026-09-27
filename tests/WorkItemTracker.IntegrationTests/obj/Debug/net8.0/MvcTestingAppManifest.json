@@ -1,0 +1,6 @@
+{
+  "WorkItemTracker.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\New\\Downloads\\WorkItemTracker\\WorkItemTracker\\src\\WorkItemTracker.Api",
+  "WorkItemTracker.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\New\\Downloads\\WorkItemTracker\\WorkItemTracker\\src\\WorkItemTracker.Application",
+  "WorkItemTracker.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\New\\Downloads\\WorkItemTracker\\WorkItemTracker\\src\\WorkItemTracker.Domain",
+  "WorkItemTracker.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\New\\Downloads\\WorkItemTracker\\WorkItemTracker\\src\\WorkItemTracker.Infrastructure"
+}

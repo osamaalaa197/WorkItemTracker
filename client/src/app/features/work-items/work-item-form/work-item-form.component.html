@@ -1,0 +1,38 @@
+<form class="card" [formGroup]="form" (ngSubmit)="submit()" novalidate>
+  <h2>New work item</h2>
+
+  <div class="field">
+    <label for="title">Title <span aria-hidden="true">*</span></label>
+    <input
+      id="title"
+      type="text"
+      formControlName="title"
+      [maxlength]="titleMaxLength"
+      placeholder="e.g. Fix the login redirect bug"
+      [attr.aria-invalid]="title.invalid && title.touched"
+    />
+    <div class="hint-row">
+      <span class="error" *ngIf="title.touched && title.hasError('required')">Title is required.</span>
+      <span class="error" *ngIf="title.hasError('maxlength')">
+        Title must be at most {{ titleMaxLength }} characters.
+      </span>
+      <span class="char-count">{{ title.value.length }}/{{ titleMaxLength }}</span>
+    </div>
+  </div>
+
+  <div class="field">
+    <label for="description">Description</label>
+    <textarea
+      id="description"
+      formControlName="description"
+      rows="3"
+      placeholder="Optional details"
+    ></textarea>
+  </div>
+
+  <div class="error server-error" role="alert" *ngIf="serverError">{{ serverError }}</div>
+
+  <button type="submit" [disabled]="submitting">
+    {{ submitting ? 'Creating…' : 'Create work item' }}
+  </button>
+</form>
